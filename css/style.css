@@ -25,7 +25,7 @@ html {
 }
 
 body {
-    background: var(--bg-color);
+    background: red;
     color: var(--text-color);
 }
 
@@ -87,6 +87,7 @@ section {
     justify-content: center;
     align-items: center;
     padding: 70px 10% 0;
+    background: var(--bg-color);
 }
 
 .home-content {
@@ -206,6 +207,10 @@ span {
     margin: 2rem 0 3rem;
 }
 
+.services {
+    background: var(--bg-color);
+}
+
 .services h2 {
     margin-bottom: 5rem;
 }
@@ -322,6 +327,10 @@ span {
 .portfolio-layer a i {
     font-size: 2rem;
     color: var(--second-bg-color);
+}
+
+.contact {
+    background: var(--bg-color);
 }
 
 .contact h2 {
