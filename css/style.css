@@ -86,7 +86,6 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
     padding: 70px 10% 0;
 }
 
@@ -524,7 +523,7 @@ span {
     }
 
     .navbar {
-        position: absolute;
+        position: fixed;
         top: 100%;
         left: 0;
         width: 100%;
