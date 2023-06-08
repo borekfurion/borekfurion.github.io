@@ -32,7 +32,7 @@ body {
 
 section {
     min-height: 100vh;
-    padding:  10rem 9% 2rem;
+    padding:  10rem 10rem 2rem 10rem;
     width: 100%;
 }
 
@@ -507,10 +507,6 @@ span {
 @media (max-width: 991px) {
     .header {
         padding: 2rem 9%;
-    }
-
-    section {
-        padding: 10rem 3% 2rem;
     }
 
     .home-content h3 {
